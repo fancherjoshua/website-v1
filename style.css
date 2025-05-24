@@ -1,0 +1,76 @@
+html {
+    height:100%; 
+
+}
+
+.container {
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 1024;
+}
+body {
+    background-color: gray;
+    background-image: url(images/forrest.png);
+    background-size:cover; 
+    background-position: center;
+  
+}
+header {
+    height: 118px;  
+    text-align:center;
+    
+}    
+
+nav {
+    background-color: rgba(0, 0, 0, 0.217);
+    
+    text-align: center; 
+    padding-top: 4px; 
+    padding-bottom: 4px;
+}
+
+main {
+    /* height: 400px;  */
+    width: auto; 
+    text-align:center;
+    margin-top: 20px;
+    padding-left: 240px; 
+    padding-right: 240px;   
+    
+}
+
+footer {
+    background-color: rgba(118, 119, 117, 0.276);
+    height: 100px;  
+    padding-top: 50px; 
+    padding-bottom:50px; 
+}
+h1 {
+    font-size: 25px; 
+    color:white; 
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+p {
+    font-size: 18px; 
+    color:white; 
+    font-family:Arial, Helvetica, sans-serif;
+}
+a {
+    font-size: 18px; 
+    color:white; 
+    font-family:Arial, Helvetica, sans-serif;
+}
+nav a {
+    text-decoration: none;
+    padding-left: 10px; 
+    padding-right: 10px; 
+}
+footer p {
+    text-align: center; 
+    color: rgb(185, 185, 188); 
+  
+}
+section {
+    padding-bottom:20px; 
+}
